@@ -1,0 +1,9 @@
+1.i created ubuntu  account.
+2.opened a terminal for the python.
+3.started with a pwd command.
+4.to create a directory (mkdir username)
+5.ls :is used for opening file and listing them.
+6.ls -a:is used for showing hidden files.
+7.cd :is used to change the directory.
+8.print: is the standard input camand.
+9. finally we saved it in first.py.
